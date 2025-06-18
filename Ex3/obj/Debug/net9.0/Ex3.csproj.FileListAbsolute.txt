@@ -12,3 +12,4 @@ C:\Users\Alexandr\Documents\EduProjects\Exercises\Csharp\Ex3\Ex3\obj\Debug\net9.
 C:\Users\Alexandr\Documents\EduProjects\Exercises\Csharp\Ex3\Ex3\obj\Debug\net9.0\Ex3.pdb
 C:\Users\Alexandr\Documents\EduProjects\Exercises\Csharp\Ex3\Ex3\obj\Debug\net9.0\Ex3.genruntimeconfig.cache
 C:\Users\Alexandr\Documents\EduProjects\Exercises\Csharp\Ex3\Ex3\obj\Debug\net9.0\ref\Ex3.dll
+C:\Users\Alexandr\Documents\EduProjects\Exercises\Csharp\Ex3\Ex3\obj\Debug\net9.0\Ex3.sourcelink.json
